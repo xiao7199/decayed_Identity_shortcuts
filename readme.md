@@ -2,7 +2,7 @@
 
 
 This is the official code repository for the paper:
-> [Residual Connections Harm Self-Supervised Abstract Feature Learning](https://arxiv.org/abs/2603.22283) 
+> [Residual Connections Harm Generative Representation Learning](https://arxiv.org/abs/2404.10947) 
 > [Xiao Zhang*](https://xiao7199.github.io/), [Ruoxi Jiang*](https://roxie62.github.io/), [Will Gao](http://www.computerscience.uchicago.edu/people/will-gao/), [Rebecca Willett](https://willett.psd.uchicago.edu/), [Michael Maire](https://computerscience.uchicago.edu/people/michael-maire/)
 
 
@@ -25,10 +25,12 @@ Please refer to the README files in the MAE and SiT folders for instructions on 
 ## Citation
 
 ```bibtex
-@article{zhang2024residual,
-  title={Residual Connections Harm Self-Supervised Abstract Feature Learning},
-  author={Xiao Zhang and Ruoxi Jiang and William Gao and Rebecca Willett and Michael Maire},
-  journal={arXiv preprint arXiv:2404.10947},
-  year={2024}
+@InProceedings{Zhang_2026_CVPR,
+    author    = {Zhang, Xiao and Jiang, Ruoxi and Gao, William and Willet, Rebecca and Maire, Michael},
+    title     = {Residual Connections Harm Generative Representation Learning},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {39669-39679}
 }
 ```
