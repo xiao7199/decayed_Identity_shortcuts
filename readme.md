@@ -2,7 +2,8 @@
 
 
 This is the official code repository for the paper:
-> [Residual Connections Harm Generative Representation Learning](https://arxiv.org/abs/2404.10947) 
+> [Residual Connections Harm Generative Representation Learning](https://arxiv.org/abs/2404.10947)
+> 
 > [Xiao Zhang*](https://xiao7199.github.io/), [Ruoxi Jiang*](https://roxie62.github.io/), [Will Gao](http://www.computerscience.uchicago.edu/people/will-gao/), [Rebecca Willett](https://willett.psd.uchicago.edu/), [Michael Maire](https://computerscience.uchicago.edu/people/michael-maire/)
 
 
